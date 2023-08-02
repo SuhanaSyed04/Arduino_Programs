@@ -1,5 +1,6 @@
 # Arduino_Programs
-These are the IoT programs carried out using sensors, various IoT devices, Arduino, Node MCU ESP8266
+These are the IoT programs carried out using sensors, various IoT devices, Arduino, Node MCU ESP8266.
+
 Ample monitoring is necessary to ensure the proper growth and health of the plants because
 they are essential to preserving the ecological cycle. With automation and internet of things
 (IoT) technology, the chapter's goal is to build a smart plant monitoring system. This topic
